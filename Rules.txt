@@ -1,0 +1,29 @@
+
+Here are the game rules, good luck and have some fun!!! =)
+
+Find the ##-->>(Arrow) - Will be this big in the game area as well.
+
+The play area is 10x40 and all of the 'hash marks' or 'pound signs', whichever
+you prefer, are considered concealed from view. During each of the players turns
+they are able to make one of three possible moves:
+
+1. Reveal what is behind a single hash/pound.
+2. Reveal what is behind a 4x4 area of the play field.
+3. Or divide the play area into two equal halves. If multiple play areas are already
+present, the two halves will rejoin and the arrows location will be randomized again.
+
+If option one is chosen during a turn, that hash mark will be 'revealed' and
+remain in this state unless on a consecutive turn option two or three has been
+chosen.
+
+If option two is chosen, the 4x4 area selected will be revealed to the player.
+As well as possibly triggering one or more events to occur:
+A. All other hash marks already revealed to the player are again concealed.
+B. The play area could be split/rejoined, depending on current state. Randomizing
+the arrows location afterwards.(4x4 will remain revealed)
+C. The arrow will be split into two or three pieces.
+
+If option three is chosen, when a hash mark is revealed after the screen is
+split into two play areas, each new reveal will be mirrored to the opposite
+play area when option one is used. If a mirrored hash has already been revealed
+then it will return to a concealed state.
